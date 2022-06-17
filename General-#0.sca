@@ -1,0 +1,24 @@
+version 3
+run General-0-20220617-04:32:55-7792
+attr configname General
+attr datetime 20220617-04:32:55
+attr datetimef 20220617-043255
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Lab10T1
+attr processid 7792
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network Lab10T1
+
+par Lab10T1.PC1 typename "\"lab10.Lab10T1.Node1\""
+par Lab10T1.PC2 typename "\"lab10.Lab10T1.Node1\""
+par Lab10T1 typename "\"lab10.Lab10T1\""
+
